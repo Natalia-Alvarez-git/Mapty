@@ -318,8 +318,6 @@ class App {
   }
 
   _deleteWorkout(e) {
-    console.log('del');
-
     const closeEl = e.target.closest('.workout__delete--icon');
     if (!closeEl) return;
     const workout = this.#workouts.find(work => work.id === closeEl.dataset.id);
