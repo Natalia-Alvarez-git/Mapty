@@ -4,7 +4,7 @@ The app is a fitness tracking platform designed to help users track their outdoo
 <img width="1699" alt="mapty sc" src="https://user-images.githubusercontent.com/112902224/233182068-659868a8-d5ca-4d29-92f4-d057894943ae.png">
 
 ### Live Application
-You can access the live application by following this link: [Restaurant Reservation System](https://natali-a-lvarez.github.io/Mapty/)
+You can access the live application by following this link: [Mapty](https://natali-a-lvarez.github.io/Mapty/)
 
 ### What can be tracked
 * Exercise type (cycling or running)
